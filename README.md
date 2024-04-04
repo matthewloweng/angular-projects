@@ -22,3 +22,11 @@ Before you begin, ensure you have the latest version of Node.js and npm installe
 node --version
 npm --version
 ```
+
+### Installation
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/angular-projects.git
+```
