@@ -30,3 +30,23 @@ npm --version
 ```bash
 git clone https://github.com/YOUR_USERNAME/angular-projects.git
 ```
+
+2. Navigate to the project directory:
+
+```bash
+cd angular-projects
+```
+
+3. Install NPM packages:
+
+```bash
+npm install
+```
+
+4. Serve the application
+
+```bash
+ng serve
+```
+
+5. Open your browser and navigate to `http://localhost:4200` to view the application.
